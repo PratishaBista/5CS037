@@ -1,0 +1,11 @@
+Country name,score,Log GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption,Dystopia + residual,Happiness_Category
+Israel,7.341,1.803,1.513,0.74,0.641,0.153,0.193,2.298,High
+Kuwait,6.951,1.845,1.364,0.661,0.827,0.2,0.172,1.884,High
+United Arab Emirates,6.733,1.983,1.164,0.563,0.815,0.209,0.258,1.741,High
+Saudi Arabia,6.594,1.842,1.361,0.511,0.787,0.114,0.188,1.79,High
+Bahrain,5.959,,,,,,,,Medium
+Iraq,5.166,1.249,0.996,0.498,0.425,0.141,0.048,1.809,Medium
+Iran,4.923,1.435,1.136,0.571,0.366,0.235,0.123,1.057,Medium
+Jordan,4.186,1.262,0.983,0.594,0.593,0.059,0.189,0.504,Medium
+Yemen,3.561,0.671,1.281,0.293,0.362,0.08,0.113,0.76,Low
+Lebanon,2.707,1.377,0.577,0.556,0.173,0.068,0.029,-0.073,Low
