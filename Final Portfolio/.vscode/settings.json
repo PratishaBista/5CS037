@@ -1,0 +1,7 @@
+{
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.pptx": "default",
+        "file:/**/*.csv": "jupyter-data-wrangler"
+    }
+}
